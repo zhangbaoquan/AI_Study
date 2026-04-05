@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+bin/
+gen/
+out/
+
+.idea/
+.idea/sonarlint/
+.idea/deploymentTargetSelector.xml
